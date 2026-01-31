@@ -7,7 +7,7 @@ Que tu sois débutant ou que tu souhaites consolider tes bases, ce projet te per
 
 ## 🎥 Découvrir les tutoriels vidéo
 
-Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/watch?v=NlreY4OXn1o&list=PLwxzgoKfBuLEx2ksGFE40X2fblxIsNmET))
+Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/watch?v=NlreY4OXn1o&list=PLwxzgoKfBuLEx2ksGFE40X2fblxIsNmET)
 
 
 . Regardez-les pour en savoir plus sur la mise en œuvre des projets et obtenir des démonstrations détaillées.
