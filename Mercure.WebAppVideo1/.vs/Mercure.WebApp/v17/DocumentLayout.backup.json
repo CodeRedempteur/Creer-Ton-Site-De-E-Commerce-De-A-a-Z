@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|solutionrelative:mercure.webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|solutionrelative:mercure.webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E70F63DD-747E-45D7-BA54-B747D5B62163}|Mercure.WebApp\\Mercure.WebApp.csproj|solutionrelative:mercure.webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83568638-05AE-434E-A10D-B6505A6F6452}|Mercure.Data.Cards\\Mercure.Data.Cards.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.data.cards\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83568638-05AE-434E-A10D-B6505A6F6452}|Mercure.Data.Cards\\Mercure.Data.Cards.csproj|solutionrelative:mercure.data.cards\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050765B1-61CF-41F8-86D8-B8A827E9932A}|Mercure.CoreServiceApi\\Mercure.CoreServiceApi.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.coreserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050765B1-61CF-41F8-86D8-B8A827E9932A}|Mercure.CoreServiceApi\\Mercure.CoreServiceApi.csproj|solutionrelative:mercure.coreserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}|Mercure.ApplicationHost\\Mercure.ApplicationHost.csproj|c:\\users\\snifl\\documents\\projetinformatique\\r_project\\mercure.webapp\\mercure.applicationhost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}|Mercure.ApplicationHost\\Mercure.ApplicationHost.csproj|solutionrelative:mercure.applicationhost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Mercure.WebApp\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\wwwroot\\app.css",
+              "RelativeToolTip": "Mercure.WebApp\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T21:48:34.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Mercure.WebApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Mercure.WebApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T21:48:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Mercure.WebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.WebApp\\Components\\App.razor*",
+              "RelativeToolTip": "Mercure.WebApp\\Components\\App.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T21:47:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.Data.Cards\\Class1.cs",
+              "RelativeDocumentMoniker": "Mercure.Data.Cards\\Class1.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.Data.Cards\\Class1.cs",
+              "RelativeToolTip": "Mercure.Data.Cards\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:47:23.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.CoreServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "Mercure.CoreServiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.CoreServiceApi\\Program.cs",
+              "RelativeToolTip": "Mercure.CoreServiceApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:47:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.ApplicationHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "Mercure.ApplicationHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\R_Project\\Mercure.WebApp\\Mercure.ApplicationHost\\AppHost.cs",
+              "RelativeToolTip": "Mercure.ApplicationHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:47:09.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
