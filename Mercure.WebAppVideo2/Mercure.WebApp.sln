@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercure.WebApp", "Mercure.WebApp\Mercure.WebApp.csproj", "{E70F63DD-747E-45D7-BA54-B747D5B62163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercure.CoreServiceApi", "Mercure.CoreServiceApi\Mercure.CoreServiceApi.csproj", "{050765B1-61CF-41F8-86D8-B8A827E9932A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercure.Data.Cards", "Mercure.Data.Cards\Mercure.Data.Cards.csproj", "{83568638-05AE-434E-A10D-B6505A6F6452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercure.Database", "Mercure.Database\Mercure.Database.csproj", "{07DDD2E4-4074-4FB7-859A-850311A5600D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercure.ApplicationHost", "Mercure.ApplicationHost\Mercure.ApplicationHost.csproj", "{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70F63DD-747E-45D7-BA54-B747D5B62163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70F63DD-747E-45D7-BA54-B747D5B62163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70F63DD-747E-45D7-BA54-B747D5B62163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70F63DD-747E-45D7-BA54-B747D5B62163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050765B1-61CF-41F8-86D8-B8A827E9932A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050765B1-61CF-41F8-86D8-B8A827E9932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050765B1-61CF-41F8-86D8-B8A827E9932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050765B1-61CF-41F8-86D8-B8A827E9932A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83568638-05AE-434E-A10D-B6505A6F6452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83568638-05AE-434E-A10D-B6505A6F6452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83568638-05AE-434E-A10D-B6505A6F6452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83568638-05AE-434E-A10D-B6505A6F6452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DDD2E4-4074-4FB7-859A-850311A5600D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DDD2E4-4074-4FB7-859A-850311A5600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DDD2E4-4074-4FB7-859A-850311A5600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DDD2E4-4074-4FB7-859A-850311A5600D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D9CA1D-FE61-4BBE-A327-3AD925DF5078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6ADB70-C5BB-4411-A795-D01915692CF8}
+	EndGlobalSection
+EndGlobal

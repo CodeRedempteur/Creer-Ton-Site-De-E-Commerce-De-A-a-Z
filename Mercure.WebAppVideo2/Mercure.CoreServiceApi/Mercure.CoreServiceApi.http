@@ -1,0 +1,6 @@
+@Mercure.CoreServiceApi_HostAddress = http://localhost:5265
+
+GET {{Mercure.CoreServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
