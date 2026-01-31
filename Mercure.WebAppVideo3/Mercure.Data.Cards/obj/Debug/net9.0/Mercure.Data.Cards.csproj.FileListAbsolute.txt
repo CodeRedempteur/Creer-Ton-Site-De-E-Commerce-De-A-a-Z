@@ -1,0 +1,11 @@
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\bin\Debug\net9.0\Mercure.Data.Cards.deps.json
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\bin\Debug\net9.0\Mercure.Data.Cards.dll
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\bin\Debug\net9.0\Mercure.Data.Cards.pdb
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.AssemblyInfoInputs.cache
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.AssemblyInfo.cs
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.csproj.CoreCompileInputs.cache
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.dll
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\refint\Mercure.Data.Cards.dll
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\Mercure.Data.Cards.pdb
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.Data.Cards\obj\Debug\net9.0\ref\Mercure.Data.Cards.dll

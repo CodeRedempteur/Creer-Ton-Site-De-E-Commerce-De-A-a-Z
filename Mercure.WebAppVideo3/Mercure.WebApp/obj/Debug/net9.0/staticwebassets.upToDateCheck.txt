@@ -1,0 +1,3 @@
+C:\Users\SnifL\Documents\ProjetInformatique\R_Project\Mercure.WebApp\Mercure.WebApp\wwwroot\app.css
+wwwroot\app.css
+wwwroot\favicon.png

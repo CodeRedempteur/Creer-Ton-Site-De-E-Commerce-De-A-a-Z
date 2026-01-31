@@ -1,0 +1,44 @@
+﻿@using Mercure.WebApp.Services
+@using Mercure.Data.Cards
+
+@page "/"
+@rendermode InteractiveServer
+@inject ITestApiService TestApiService
+<PageTitle>Home</PageTitle>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nom</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var test in tests)
+            {
+                <tr>
+                    <td>@test.Id</td>
+                    <td>@test.Nom</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+@code {
+    private List<Test> tests = new();
+    private bool isLoading = true;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            tests = await TestApiService.GetTestAsync();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Erreur : {ex.Message}";
+        }
+    }
+}
