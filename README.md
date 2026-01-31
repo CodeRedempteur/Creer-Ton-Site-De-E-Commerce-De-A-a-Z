@@ -7,11 +7,11 @@ Que tu sois débutant ou que tu souhaites consolider tes bases, ce projet te per
 
 ## 🎥 Découvrir les tutoriels vidéo
 
-Des vidéos explicatives sont disponibles sur [YouTube]([https://www.youtube.com/playlist?list=PLwxzgoKfBuLEY3DN0Fl82NEQRASQmzjfX](https://www.youtube.com/watch?v=QKppCmuYt90&list=PLwxzgoKfBuLEx2ksGFE40X2fblxIsNmET&index=6)). Regardez-les pour en savoir plus sur la mise en œuvre des projets et obtenir des démonstrations détaillées.
+Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/playlist?list=PLwxzgoKfBuLEY3DN0Fl82NEQRASQmzjfX). Regardez-les pour en savoir plus sur la mise en œuvre des projets et obtenir des démonstrations détaillées.
 
 ## 🚀 Comment utiliser ces fichiers ?
 
-1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/Projets-Web.git`
+1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/Creer-Ton-Site-De-E-Commerce-De-A-a-Z.git`
 2. **Ouvrez le projet** dans Visual Studio ou votre IDE préféré.
 3. **Exécutez** et explorez les différents exemples fournis.
 4. Consultez les commentaires et instructions dans chaque fichier pour comprendre chaque étape du développement.
@@ -29,4 +29,4 @@ Si vous trouvez ce projet utile, vous pouvez me soutenir sur les plateformes sui
 - [Patreon](https://www.patreon.com/CodeRedempteur)
 - [Buy Me a Coffee](https://buymeacoffee.com/coderredemy)
 
-Merci pour votre soutien et votre intérêt pour Monogame ! 🎮
+Merci pour votre soutien et votre intérêt pour cette chaîne ! 🎮
